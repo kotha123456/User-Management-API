@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\model\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\model\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\migrations\\20240908042011_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\migrations\\20240908042011_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\migrations\\20240908070202_coloumnremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\migrations\\20240908070202_coloumnremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\migrations\\20240908070435_coloumnremoveemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\migrations\\20240908070435_coloumnremoveemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|d:\\katha(learning)\\usermanagementapi\\entityframeworkcodefirstapi\\entityframeworkcodefirstapi\\migrations\\20240908070119_coloumnadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC839EE6-2243-4432-984F-96D85612AA59}|EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI.csproj|solutionrelative:entityframeworkcodefirstapi\\migrations\\20240908070119_coloumnadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240908070435_coloumnremoveEmail.cs",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Migrations\\20240908070435_coloumnremoveEmail.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\Migrations\\20240908070435_coloumnremoveEmail.cs",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Migrations\\20240908070435_coloumnremoveEmail.cs",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\Migrations\\20240908070435_coloumnremoveEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:04:35.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240908070202_coloumnremove.cs",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Migrations\\20240908070202_coloumnremove.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\Migrations\\20240908070202_coloumnremove.cs",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Migrations\\20240908070202_coloumnremove.cs",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\Migrations\\20240908070202_coloumnremove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:02:02.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240908070119_coloumnadd.cs",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Migrations\\20240908070119_coloumnadd.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\Migrations\\20240908070119_coloumnadd.cs",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Migrations\\20240908070119_coloumnadd.cs",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\Migrations\\20240908070119_coloumnadd.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:01:19.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:54:41.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240908042011_INIT.cs",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Migrations\\20240908042011_INIT.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\Migrations\\20240908042011_INIT.cs",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Migrations\\20240908042011_INIT.cs",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\Migrations\\20240908042011_INIT.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:20:11.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\Program.cs",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:11:20.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\appsettings.json",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\appsettings.json",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T04:05:53.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Model\\UserContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\Model\\UserContext.cs",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Model\\UserContext.cs",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\Model\\UserContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T12:00:07.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkCodeFirstAPI\\Model\\Users.cs",
+              "ToolTip": "D:\\Katha(learning)\\UserManagementAPI\\EntityFrameworkCodeFirstAPI\\EntityFrameworkCodeFirstAPI\\Model\\Users.cs",
+              "RelativeToolTip": "EntityFrameworkCodeFirstAPI\\Model\\Users.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T11:57:27.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
